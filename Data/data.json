@@ -1,0 +1,11 @@
+{
+  "name": "Fatih Emre",
+  "surname": "Yüce",
+  "age": 20,
+  "city": "Kocaeli",
+  "hobbies":[
+    "Oyun",
+    "Muzik",
+    "Kodlama"
+  ]
+}
