@@ -1,5 +1,5 @@
 import cv2
-import numpy as np
+
 import time
 
 cam = cv2.VideoCapture(0)

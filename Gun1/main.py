@@ -6,7 +6,6 @@ onceki_zaman=time.time()
 
 while True:
     ret, frame = cam.read()
-    frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
     if not ret:
         print("Kamera Açılamadı")
         break

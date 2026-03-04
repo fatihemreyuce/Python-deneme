@@ -2,7 +2,6 @@ import math
 import random
 import time
 
-
 nesneler = {
     "Araba": (100, 200),
     "Kisi": (300, 150),
